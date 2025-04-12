@@ -201,5 +201,13 @@ export const destinationData = [
         "Five-star service from start to finish! The dedication and skill of the team made all the difference. Truly an exceptional experience I won’t forget.",
       image: "/images/u2.jpg",
     },
+    {
+      id: 9,
+      name: "Xander White",
+      profession:"Software Engineer",
+      review:
+        "Five-star service from start to finish! The dedication and skill of the team made all the difference. Truly an exceptional experience I won’t forget.",
+      image: "/images/u2.jpg",
+    },
   ];
   
